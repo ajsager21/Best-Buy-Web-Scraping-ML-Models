@@ -1,0 +1,1 @@
+This repository is part of a project done during my Fall Quarter as an MSBA candidate at UC Irvine. My group and I used Best Buy's shopping website to web scrape and gather data about prices, customer ratings, brand name, etc for gaming consoles and accessories on the Best Buy website. We used machine learning models such as XGBOost and Logit Regression.
